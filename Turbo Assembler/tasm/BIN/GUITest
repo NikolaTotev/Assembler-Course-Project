@@ -1,0 +1,6 @@
+include 'win32ax.inc'
+.code 
+	start:
+	invoke MessageBox, HWND_DESKTOP, "Yes or No", invoke GetCommandLine, MB_YESNO
+	invoke ExitProcess, 0
+	.end start

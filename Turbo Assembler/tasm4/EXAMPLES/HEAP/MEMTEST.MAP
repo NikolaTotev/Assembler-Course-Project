@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00731H 00732H _TEXT              CODE
+ 00740H 0A47BH 09D3CH _DATA              DATA
+ 0A480H 0B47FH 01000H STACK              STACK
+ 0B480H 0B480H 00000H ZZLASTSEG          
+ 0B480H 0B480H 00000H ZZLASTSEG          
+
+Program entry point at 0000:003E
+
