@@ -1,7 +1,2 @@
 # Assembler-Projects
-
-- [Title](#title)
-	- Other thing
-----------------------------------
-
-# Title
+# ReadMe In progress. Coming Soon!
